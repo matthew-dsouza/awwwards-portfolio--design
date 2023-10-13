@@ -238,7 +238,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-image: var(--e-bg-lazyload-loaded);
-  --e-bg-lazyload: url("https://jithinkumar.com/wp-content/uploads/2022/10/Jithin-Image.png");
+  --e-bg-lazyload: url("../../../media/Matthew-Image.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 78% auto;
@@ -586,7 +586,7 @@
   margin-right: 12px;
 }
 .elementor-2223 .elementor-element.elementor-element-5408021 .elementor-button {
-  font-family: "Elgoc", Sans-serif;
+  font-family: "Elgoc-Light", sans-serif;
   font-size: 1.4rem;
   font-weight: 600;
   fill: #ffffff;
@@ -660,7 +660,7 @@
   .elementor-element.elementor-element-e59b950
   .elementor-counter-number-wrapper {
   color: #ffffff;
-  font-family: "Elgoc", Sans-serif;
+  font-family: "Elgoc-Light";
   font-size: 3.5rem;
   font-weight: 300;
 }
@@ -668,7 +668,7 @@
   .elementor-element.elementor-element-e59b950
   .elementor-counter-title {
   color: #ffffff;
-  font-family: "Elgoc", Sans-serif;
+  font-family: "Elgoc-Light", sans-serif;
   font-size: 2rem;
   font-weight: 300;
 }
@@ -679,7 +679,7 @@
   .elementor-element.elementor-element-efd8f65
   .elementor-counter-number-wrapper {
   color: #ffffff;
-  font-family: "Elgoc", Sans-serif;
+  font-family: "Elgoc-Light";
   font-size: 3.5rem;
   font-weight: 300;
 }
@@ -687,7 +687,7 @@
   .elementor-element.elementor-element-efd8f65
   .elementor-counter-title {
   color: #ffffff;
-  font-family: "Elgoc", Sans-serif;
+  font-family: "Elgoc-Light", sans-serif;
   font-size: 2rem;
   font-weight: 300;
 }
@@ -698,7 +698,7 @@
   .elementor-element.elementor-element-aa0da34
   .elementor-counter-number-wrapper {
   color: #ffffff;
-  font-family: "Elgoc", Sans-serif;
+  font-family: "Elgoc-Light" !important;
   font-size: 3.5rem;
   font-weight: 300;
 }
@@ -706,7 +706,7 @@
   .elementor-element.elementor-element-aa0da34
   .elementor-counter-title {
   color: #ffffff;
-  font-family: "Elgoc", Sans-serif;
+  font-family: "Elgoc-Light", sans-serif;
   font-size: 2rem;
   font-weight: 300;
 }
@@ -741,7 +741,7 @@
   .elementor-element.elementor-element-e89f34b
   .elementor-heading-title {
   color: #ffffff;
-  font-family: "Elgoc", Sans-serif;
+  font-family: Elgoc-Light, Sans-serif;
   font-size: 8rem;
   font-weight: 300;
   line-height: 1.2em;
@@ -850,7 +850,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-image: var(--e-bg-lazyload-loaded);
-  --e-bg-lazyload: url("https://jithinkumar.com/wp-content/uploads/2022/10/Jithin-Image.png");
+  --e-bg-lazyload: url("../../../media/Matthew-Image.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 78% auto;
@@ -1572,7 +1572,7 @@ body.rtl .elementor-2223 .elementor-element.elementor-element-8e4cce2 {
   font-style: normal;
   font-weight: 300;
   font-display: auto;
-  src: url("https://jithinkumar.com/wp-content/uploads/2022/11/elgoc-light-webfont.woff")
+  src: url("../../2022/11/elgoc-light-webfont.woff")
     format("woff");
 }
 @font-face {
@@ -1580,7 +1580,7 @@ body.rtl .elementor-2223 .elementor-element.elementor-element-8e4cce2 {
   font-style: normal;
   font-weight: normal;
   font-display: auto;
-  src: url("https://jithinkumar.com/wp-content/uploads/2022/11/elgoc-regular-webfont.woff")
+  src: url("../../2022/11/elgoc-regular-webfont.woff")
     format("woff");
 }
 @font-face {
@@ -1588,7 +1588,7 @@ body.rtl .elementor-2223 .elementor-element.elementor-element-8e4cce2 {
   font-style: normal;
   font-weight: 500;
   font-display: auto;
-  src: url("https://jithinkumar.com/wp-content/uploads/2022/11/lgoc-medium-webfont.woff")
+  src: url("../../2022/11/lgoc-medium-webfont.woff")
     format("woff");
 }
 @font-face {
@@ -1596,7 +1596,7 @@ body.rtl .elementor-2223 .elementor-element.elementor-element-8e4cce2 {
   font-style: normal;
   font-weight: bold;
   font-display: auto;
-  src: url("https://jithinkumar.com/wp-content/uploads/2022/11/elgoc-bold-webfont.woff")
+  src: url("../../2022/11/elgoc-bold-webfont.woff")
     format("woff");
 }
 @font-face {
@@ -1604,7 +1604,7 @@ body.rtl .elementor-2223 .elementor-element.elementor-element-8e4cce2 {
   font-style: normal;
   font-weight: 900;
   font-display: auto;
-  src: url("https://jithinkumar.com/wp-content/uploads/2022/11/elgoc-black-webfont.woff")
+  src: url("../../2022/11/elgoc-black-webfont.woff")
     format("woff");
 }
 /* End Custom Fonts CSS */
@@ -1614,11 +1614,11 @@ body.rtl .elementor-2223 .elementor-element.elementor-element-8e4cce2 {
   font-style: normal;
   font-weight: bold;
   font-display: auto;
-  src: url("https://jithinkumar.com/wp-content/uploads/2022/10/tangerine-webfont.woff2")
+  src: url("../../2022/10/tangerine-webfont.woff2")
       format("woff2"),
-    url("https://jithinkumar.com/wp-content/uploads/2022/10/tangerine-webfont.woff")
+    url("../../2022/10/tangerine-webfont.woff")
       format("woff"),
-    url("https://jithinkumar.com/wp-content/uploads/2022/10/tangerine-webfont.ttf")
+    url("../../2022/10/tangerine-webfont.ttf")
       format("truetype");
 }
 /* End Custom Fonts CSS */

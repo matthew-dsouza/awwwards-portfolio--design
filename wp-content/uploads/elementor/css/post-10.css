@@ -2,6 +2,18 @@
   font-family: Tangerine;
   src: url(../../2022/10/tangerine-webfont.woff2);
 }
+@font-face {
+  font-family: Elgoc-Light;
+  src: url(../../2022/11/elgoc-light-webfont.woff);
+}
+@font-face {
+  font-family: Elgoc;
+  src: url(../../2022/11/elgoc-regular-webfont.woff);
+}
+@font-face {
+  font-family: Elgoc-Bold;
+  src: url(../../2022/11/elgoc-bold-webfont.woff);
+}
 
 .elementor-kit-10 {
   --e-global-color-primary: #011009;
@@ -55,7 +67,7 @@
 .elementor-element {
   --widgets-spacing: 20px 20px;
 }
- 
+
 h1.entry-title {
   display: var(--page-title-display);
 }
@@ -171,40 +183,35 @@ html.lenis {
   font-style: normal;
   font-weight: 300;
   font-display: auto;
-  src: url("https://jithinkumar.com/wp-content/uploads/2022/11/elgoc-light-webfont.woff")
-    format("woff");
+  src: url("../../2022/11/elgoc-light-webfont.woff") format("woff");
 }
 @font-face {
   font-family: "Elgoc";
   font-style: normal;
   font-weight: normal;
   font-display: auto;
-  src: url("https://jithinkumar.com/wp-content/uploads/2022/11/elgoc-regular-webfont.woff")
-    format("woff");
+  src: url("../../2022/11/elgoc-regular-webfont.woff") format("woff");
 }
 @font-face {
   font-family: "Elgoc";
   font-style: normal;
   font-weight: 500;
   font-display: auto;
-  src: url("https://jithinkumar.com/wp-content/uploads/2022/11/lgoc-medium-webfont.woff")
-    format("woff");
+  src: url("../../2022/11/lgoc-medium-webfont.woff") format("woff");
 }
 @font-face {
   font-family: "Elgoc";
   font-style: normal;
   font-weight: bold;
   font-display: auto;
-  src: url("https://jithinkumar.com/wp-content/uploads/2022/11/elgoc-bold-webfont.woff")
-    format("woff");
+  src: url("../../2022/11/elgoc-bold-webfont.woff") format("woff");
 }
 @font-face {
   font-family: "Elgoc";
   font-style: normal;
   font-weight: 900;
   font-display: auto;
-  src: url("https://jithinkumar.com/wp-content/uploads/2022/11/elgoc-black-webfont.woff")
-    format("woff");
+  src: url("../../2022/11/elgoc-black-webfont.woff") format("woff");
 }
 /* End Custom Fonts CSS */
 /* Start Custom Fonts CSS */
@@ -213,11 +220,8 @@ html.lenis {
   font-style: normal;
   font-weight: bold;
   font-display: auto;
-  src: url("https://jithinkumar.com/wp-content/uploads/2022/10/tangerine-webfont.woff2")
-      format("woff2"),
-    url("https://jithinkumar.com/wp-content/uploads/2022/10/tangerine-webfont.woff")
-      format("woff"),
-    url("https://jithinkumar.com/wp-content/uploads/2022/10/tangerine-webfont.ttf")
-      format("truetype");
+  src: url("../../2022/10/tangerine-webfont.woff2") format("woff2"),
+    url("../../2022/10/tangerine-webfont.woff") format("woff"),
+    url("../../2022/10/tangerine-webfont.ttf") format("truetype");
 }
 /* End Custom Fonts CSS */
