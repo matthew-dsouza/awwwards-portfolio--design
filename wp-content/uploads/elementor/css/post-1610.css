@@ -114,7 +114,30 @@ body.rtl .elementor-1610 .elementor-element.elementor-element-f8f16c5 {
   animation-duration: 0.2s;
   background-color: #000000;
 }
-@media (max-width: 1024px) {
+@media (min-width: 1024px) {
+  .elementor-1610
+    .elementor-element.elementor-element-5ba2bb8
+    .elementor-heading-title {
+    font-size: 120px;
+    font-weight: normal;
+    line-height: 140px;
+  }
+  .elementor-1610
+    .elementor-element.elementor-element-5e9c9b0
+    .elementor-heading-title {
+    font-size: 120px;
+    font-weight: normal;
+    line-height: 140px;
+  }
+  .elementor-1610
+    .elementor-element.elementor-element-1ca1789
+    .elementor-heading-title {
+    font-size: 120px;
+    font-weight: normal;
+    line-height: 140px;
+  }
+}
+@media (max-width: 1023px) {
   .elementor-1610
     .elementor-element.elementor-element-5ba2bb8
     .elementor-heading-title {
